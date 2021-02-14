@@ -12,9 +12,8 @@ const App = () => {
             <Header/>
             <Switch>
                 <Route 
-                    path="/" 
-                    render={() => <img className="flex-grow-1" src = {starwarBg} alt="starwar-background"/>}
-                    exact 
+                    path="/starwar/" 
+                    render={() => <img className="flex-grow-1" src = {starwarBg} alt="starwar-background"/>} 
                 />
                 <Route 
                     path="/favorites/"
