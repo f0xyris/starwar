@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/starwar/static/css/main.84e258a2.chunk.css",
+    "main.js": "/starwar/static/js/main.bd3ffdb0.chunk.js",
+    "main.js.map": "/starwar/static/js/main.bd3ffdb0.chunk.js.map",
+    "runtime-main.js": "/starwar/static/js/runtime-main.3242a52f.js",
+    "runtime-main.js.map": "/starwar/static/js/runtime-main.3242a52f.js.map",
+    "static/js/2.9b31bd0e.chunk.js": "/starwar/static/js/2.9b31bd0e.chunk.js",
+    "static/js/2.9b31bd0e.chunk.js.map": "/starwar/static/js/2.9b31bd0e.chunk.js.map",
+    "index.html": "/starwar/index.html",
+    "static/css/main.84e258a2.chunk.css.map": "/starwar/static/css/main.84e258a2.chunk.css.map",
+    "static/js/2.9b31bd0e.chunk.js.LICENSE.txt": "/starwar/static/js/2.9b31bd0e.chunk.js.LICENSE.txt",
+    "static/media/starwar-bg.79db3e4a.jpg": "/starwar/static/media/starwar-bg.79db3e4a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3242a52f.js",
+    "static/js/2.9b31bd0e.chunk.js",
+    "static/css/main.84e258a2.chunk.css",
+    "static/js/main.bd3ffdb0.chunk.js"
+  ]
+}
