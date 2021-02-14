@@ -1,0 +1,40 @@
+.page {
+    background-color: #8cbed5c7;
+    padding-top: 2rem;
+}
+
+.default-page {
+    padding: 0;
+}
+.list-group-item  {
+    font-weight: 800;
+}
+.list-group-item span {
+    margin-left: 1rem;
+    font-weight: 400;
+}
+.btn-group,
+.list-group {
+    margin-top: 1rem;
+}
+.active-item__name {
+    font-weight: 800;
+}
+
+.searchField {
+    padding: 1rem;
+}
+
+.favorite-page .list-group-item:hover {
+    color: inherit;
+    background-color: #fff;
+    cursor: default;
+}
+
+.list-group-item .fa {
+    color: #000;
+    display: flex;
+    justify-content: center;
+    width: 1em;
+    align-items: center;
+}

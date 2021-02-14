@@ -1,0 +1,27 @@
+.people-list {
+    padding: 0;
+    list-style-type: none;
+    padding: 0;
+}
+
+.people-list .list-group-item {
+    cursor: pointer;
+    display: flex;
+    font-size: 1.2em;
+}
+
+.people-list .list-group-item:hover {
+    background-color: transparent;
+    color: #ffffff;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1rem;
+
+}

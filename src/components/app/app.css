@@ -1,0 +1,9 @@
+.starwars-app {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+* {
+    font-family: 'Orbitron', sans-serif;
+}

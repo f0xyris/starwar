@@ -1,0 +1,40 @@
+.header {
+  background-color: #000000;
+}
+
+.header ul li {
+  list-style: none;
+  margin: 0;
+  padding: 0 1rem;
+  border-radius: 3px;
+}
+
+.header a:hover {
+  text-decoration: none;
+}
+
+.header h4 a {
+  color: white;
+}
+
+.header a:hover {
+  color: #00bc8c;
+}
+
+.header-logo,
+.header-nav {
+  margin: 0;
+  padding: 0;
+}
+
+.header-wrapper {
+  padding: 1.5rem 0;
+}
+
+.header-nav a {
+  color: #fff;
+}
+
+.header-logo {
+  font-weight: 800;
+}
