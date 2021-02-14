@@ -9,7 +9,7 @@ const Header = () => {
     <div className="header container-fluid">
       <div className="container d-flex align-items-center header-wrapper">
         <h4 className="header-logo flex-grow-1">
-          <Link to="/">
+          <Link to="/starwar">
             Star Wars
           </Link>
         </h4>
